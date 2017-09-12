@@ -1,0 +1,5 @@
+myshop/.git
+myshop/.idea
+myshop/media
+__pycache__
+db.sqlite3
